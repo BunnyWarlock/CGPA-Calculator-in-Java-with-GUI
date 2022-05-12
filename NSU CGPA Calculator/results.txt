@@ -1,0 +1,11 @@
+NSU CGPA Calculator
+Result of Sahil Yasar (2122060642)
+
+		Course Code	Credit		Grade
+Subject 1:	ENG 103		3.0		A
+Subject 2:	MAT 116		0.0		A
+Subject 3:	MAT 120		3.0		A
+Subject 4:	MAT 125		3.0		A
+Subject 5:	CSE 115		3.0		A
+
+CGPA: 4
